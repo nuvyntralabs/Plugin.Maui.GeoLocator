@@ -4,7 +4,7 @@ On-demand location, start/stop tracking, and reverse geocoding for .NET MAUI on 
 
 Repository: https://github.com/nuvyntralabs/Plugin.Maui.GeoLocator
 NuGet: https://www.nuget.org/packages/Plugin.Maui.GeoLocator
-Paper: https://niladripadhy.vercel.app/opensource/plugin-maui-geolocator
+Paper: https://nuvyntralabs.github.io/packages/plugin-maui-geolocator/
 Catalog: https://github.com/nuvyntralabs/MauiEssentials
 License: MIT
 
